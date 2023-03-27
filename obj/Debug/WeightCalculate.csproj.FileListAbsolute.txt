@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\bin\Debug\WeightCalculate.exe.config
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\bin\Debug\WeightCalculate.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\bin\Debug\WeightCalculate.pdb
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.g.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.exe
+C:\Users\ASUS\OneDrive\桌面\colliter_Hit\WeightCalculate\obj\Debug\WeightCalculate.pdb
